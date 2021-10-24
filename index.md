@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+# CERTIFICATIONS	
 
-You can use the [editor on GitHub](https://github.com/jainal09/certifications/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! This Readme will display all my certifications I have ever done with verified links and images screenshot.
+##
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adarsh1999/Certifications/main/rsz_microsoft.png"/>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- *Microsoft Student Partner (2019-2020)*
 
-### Markdown
+> https://bit.ly/msp_jg
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![enter image description here](https://raw.githubusercontent.com/jainal09/certifications/main/jsg.png	)
 
-```markdown
-Syntax highlighted code block
+### - *Microsoft Student Ambassadors (2020-2021)*
 
-# Header 1
-## Header 2
-### Header 3
+> https://bit.ly/jg-msft-learn-ambsdr
 
-- Bulleted
-- List
+![enter image description here](https://raw.githubusercontent.com/jainal09/certifications/main/jag%20msp.png)
 
-1. Numbered
-2. List
+##
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adarsh1999/Certifications/main/rsz_4coursera.png"/>
+</p>
 
-**Bold** and _Italic_ and `Code` text
+###
+ ### - *Fundamentals of Computing*
 
-[Link](url) and ![Image](src)
-```
+> Fundamentals of Computing Specialization by *Rice University*
+> https://bit.ly/jg-fundamentals-cp
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Fundamentals of Computing](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~XPQM6NAEZYJX/CERTIFICATE_LANDING_PAGE~XPQM6NAEZYJX.jpeg)
 
-### Jekyll Themes
+###
+ ### - *Software Design and Architecture*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jainal09/certifications/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> Software Design and Architecture Specialization by *University of Alberta*
+> https://bit.ly/jg-sda
 
-### Support or Contact
+![Software Design and Architecture](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~C6CU7WBNRWHP/CERTIFICATE_LANDING_PAGE~C6CU7WBNRWHP.jpeg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###
+ ### - *Data Structures and Algorithms*
+
+> Data Structures and Algorithms Specialization by *University of California San Diego*
+> https://bit.ly/jg-dsa
+
+![Data Structures and Algorithms](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~25BF7LV65JMP/CERTIFICATE_LANDING_PAGE~25BF7LV65JMP.jpeg)
+
+###
+ ### - *Python for Everybody*
+
+> Python for Everybody Specialization by *University of Michigan*
+> https://bit.ly/jg-python-everybody
+
+![Python for Everybody](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~XS36A2TFBEW7/CERTIFICATE_LANDING_PAGE~XS36A2TFBEW7.jpeg)
+
+###
+###  - *DeepLearning.AI TensorFlow Developer*
+
+> TensorFlow Developer Specialization by *DeepLearning.AI*
+> https://bit.ly/dp-tf-jg
+
+![DeepLearning.AI TensorFlow Developer](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~K8VPWSRZPZSZ/CERTIFICATE_LANDING_PAGE~K8VPWSRZPZSZ.jpeg)
+
+
+###
+
+ ### - *Programming with Google Go*
+ 
+
+> Programming with Google Go Specialization by *University of California*
+> https://bit.ly/jg-go
+
+![Programming with Google Go](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UL2WU6LBC9M7/CERTIFICATE_LANDING_PAGE~UL2WU6LBC9M7.jpeg)
+ ### - *Introduction to Discrete Mathematics for Computer Science*
+ 
+
+> Introduction to Discrete Mathematics for Computer Science Specialization by *University of California San Diego*
+> https://bit.ly/jg-discrete-maths
+
+![Programming with Google Go](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~G6Z2DW6QJ4AC/CERTIFICATE_LANDING_PAGE~G6Z2DW6QJ4AC.jpeg)
+##
