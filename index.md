@@ -1,7 +1,4 @@
 
-# CERTIFICATIONS	
-
-Hi! this page will display all my certifications I have ever received with verified links and images screenshot.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Adarsh1999/Certifications/main/rsz_microsoft.png"/>
