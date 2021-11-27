@@ -1,5 +1,6 @@
 
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Adarsh1999/Certifications/main/rsz_microsoft.png"/>
 </p>
@@ -81,3 +82,6 @@
 
 ![Programming with Google Go](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~G6Z2DW6QJ4AC/CERTIFICATE_LANDING_PAGE~G6Z2DW6QJ4AC.jpeg)
  [🔗 Link to  Certificate](https://bit.ly/jg-discrete-maths)
+
+## Programming with C++
+![enter image description here](https://raw.githubusercontent.com/jainal09/Certifications/gh-pages/bit_c++.jpg)
