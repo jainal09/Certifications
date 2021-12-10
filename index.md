@@ -1,7 +1,10 @@
 
 
+## Research Paper
+[🔗 Link to Conference](http://icocbi.com/2021/)
 
-<p align="center">
+
+![Conference](https://github.com/jainal09/Certifications/raw/main/2021-12-10_8-08-24.png)<p align="center">
   <img src="https://raw.githubusercontent.com/Adarsh1999/Certifications/main/rsz_microsoft.png"/>
 </p>
 
