@@ -1,10 +1,4 @@
-
-
-## Research Paper
-[🔗 Link to Conference](http://icocbi.com/2021/)
-
-
-![Conference](https://github.com/jainal09/Certifications/raw/main/2021-12-10_8-08-24.png)<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Adarsh1999/Certifications/main/rsz_microsoft.png"/>
 </p>
 
@@ -20,6 +14,11 @@
 ![enter image description here](https://raw.githubusercontent.com/jainal09/certifications/main/jag%20msp.png)
 [🔗 Link to  Certificate](https://bit.ly/jg-msft-learn-ambsdr)
 
+## Research Paper
+[🔗 Link to Conference](http://icocbi.com/2021/)
+
+
+![Conference](https://github.com/jainal09/Certifications/raw/main/2021-12-10_8-08-24.png)
 
 
 <p align="center">
