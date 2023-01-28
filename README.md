@@ -8,7 +8,7 @@
 
 ![enter image description here](https://raw.githubusercontent.com/jainal09/certifications/main/jsg.png	)
 
-##  Microsoft Student Ambassadors (2020-2021)
+##  Microsoft Student Ambassadors (2020- Present)
 
 > https://bit.ly/jg-msft-learn-ambsdr
 
